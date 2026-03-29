@@ -33,14 +33,12 @@ class PlannerV2:
         # Analyze DAG structure
         analysis = self._analyze_dag_structure(dag)
         
-        # Optimize for parallelism
         optimized_dag = self._optimize_for_parallelism(dag, analysis)
         
-        # Create detailed execution plan
         plan = self._create_execution_plan(optimized_dag, components)
         
         logger.info(f"✅ Generated DAG with {len(plan['nodes'])} nodes, "
-                   f"parallelism factor: {analysis['parallelization_opportunities']}")
+                   f"parallelism factor: {analysis.parallelization_opportunities}")
         
         return plan
     
