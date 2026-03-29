@@ -1,0 +1,186 @@
+{
+  "tasks": [
+    {
+      "timestamp": "2026-03-29T22:18:30.751895",
+      "task_id": "task_1774802907",
+      "description": "Analyze current market trends in machine learning and create a summary report.",
+      "output": {
+        "task_id": "c21231fc-434",
+        "total_nodes": 5,
+        "completed": 5,
+        "failed": 0,
+        "total_execution_time": 0.018019437789916992,
+        "status": "SUCCESS",
+        "execution_results": {
+          "8de7fbbd": {
+            "status": "completed",
+            "output": {
+              "node_id": "8de7fbbd",
+              "execution_results": [],
+              "output": {
+                "summary": "Completed: Analyze task and create execution strategy\nExecuted 0 tool calls.\nSuccess rate: 0/0 calls",
+                "execution_results": [],
+                "success_count": 0,
+                "total_operations": 0
+              },
+              "tools_used": 0
+            },
+            "duration": 0.0006036758422851562,
+            "error": null
+          },
+          "0d0a08b1": {
+            "status": "completed",
+            "output": {
+              "node_id": "0d0a08b1",
+              "execution_results": [],
+              "output": {
+                "summary": "Completed: Gather external knowledge and context\nExecuted 0 tool calls.\nSuccess rate: 0/0 calls",
+                "execution_results": [],
+                "success_count": 0,
+                "total_operations": 0
+              },
+              "tools_used": 0
+            },
+            "duration": 0.0008685588836669922,
+            "error": null
+          },
+          "3359317f": {
+            "status": "completed",
+            "output": {
+              "node_id": "3359317f",
+              "execution_results": [],
+              "output": {
+                "summary": "Completed: Perform the core task operations\nExecuted 0 tool calls.\nSuccess rate: 0/0 calls",
+                "execution_results": [],
+                "success_count": 0,
+                "total_operations": 0
+              },
+              "tools_used": 0
+            },
+            "duration": 0.0008623600006103516,
+            "error": null
+          },
+          "34ca9b1c": {
+            "status": "completed",
+            "output": {
+              "node_id": "34ca9b1c",
+              "execution_results": [],
+              "output": {
+                "summary": "Completed: Multiple critic agents score the output\nExecuted 0 tool calls.\nSuccess rate: 0/0 calls",
+                "execution_results": [],
+                "success_count": 0,
+                "total_operations": 0
+              },
+              "tools_used": 0
+            },
+            "duration": 0.0013759136199951172,
+            "error": null
+          },
+          "f638c463": {
+            "status": "completed",
+            "output": {
+              "node_id": "f638c463",
+              "execution_results": [],
+              "output": {
+                "summary": "Completed: Apply critic feedback and improve output\nExecuted 0 tool calls.\nSuccess rate: 0/0 calls",
+                "execution_results": [],
+                "success_count": 0,
+                "total_operations": 0
+              },
+              "tools_used": 0
+            },
+            "duration": 0.0008134841918945312,
+            "error": null
+          }
+        },
+        "refinement_applied": "CreativityCritic",
+        "iteration": 1
+      },
+      "status": "REJECTED",
+      "duration": -7.152557373046875e-07
+    },
+    {
+      "timestamp": "2026-03-29T22:18:34.146543",
+      "task_id": "task_1774802910",
+      "description": "Create a comprehensive business case for AI implementation in enterprise software,\n               including risk analysis, cost-benefit assessment, and implementation roadmap.",
+      "output": {
+        "task_id": "7acf84f3-c2b",
+        "total_nodes": 4,
+        "completed": 4,
+        "failed": 0,
+        "total_execution_time": 0.02677631378173828,
+        "status": "SUCCESS",
+        "execution_results": {
+          "81a71050": {
+            "status": "completed",
+            "output": {
+              "node_id": "81a71050",
+              "execution_results": [],
+              "output": {
+                "summary": "Completed: Analyze task and create execution strategy\nExecuted 0 tool calls.\nSuccess rate: 0/0 calls",
+                "execution_results": [],
+                "success_count": 0,
+                "total_operations": 0
+              },
+              "tools_used": 0
+            },
+            "duration": 0.0015599727630615234,
+            "error": null
+          },
+          "4f799a7a": {
+            "status": "completed",
+            "output": {
+              "node_id": "4f799a7a",
+              "execution_results": [],
+              "output": {
+                "summary": "Completed: Perform the core task operations\nExecuted 0 tool calls.\nSuccess rate: 0/0 calls",
+                "execution_results": [],
+                "success_count": 0,
+                "total_operations": 0
+              },
+              "tools_used": 0
+            },
+            "duration": 0.001974344253540039,
+            "error": null
+          },
+          "f9fa7773": {
+            "status": "completed",
+            "output": {
+              "node_id": "f9fa7773",
+              "execution_results": [],
+              "output": {
+                "summary": "Completed: Multiple critic agents score the output\nExecuted 0 tool calls.\nSuccess rate: 0/0 calls",
+                "execution_results": [],
+                "success_count": 0,
+                "total_operations": 0
+              },
+              "tools_used": 0
+            },
+            "duration": 0.001888275146484375,
+            "error": null
+          },
+          "68bf1b6e": {
+            "status": "completed",
+            "output": {
+              "node_id": "68bf1b6e",
+              "execution_results": [],
+              "output": {
+                "summary": "Completed: Apply critic feedback and improve output\nExecuted 0 tool calls.\nSuccess rate: 0/0 calls",
+                "execution_results": [],
+                "success_count": 0,
+                "total_operations": 0
+              },
+              "tools_used": 0
+            },
+            "duration": 0.0015249252319335938,
+            "error": null
+          }
+        },
+        "refinement_applied": "CreativityCritic",
+        "iteration": 1
+      },
+      "status": "REJECTED",
+      "duration": -4.76837158203125e-07
+    }
+  ]
+}

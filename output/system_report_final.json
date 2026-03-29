@@ -1,0 +1,74 @@
+{
+  "timestamp": "2026-03-29T22:18:34.159993",
+  "system_status": {
+    "agents": {
+      "planner": {
+        "name": "Planner",
+        "role": "Task Planning and DAG Generation",
+        "execution_count": 2,
+        "total_decisions": 2,
+        "avg_confidence": 0.95
+      },
+      "executor": {
+        "name": "Executor",
+        "role": "Task Execution and Tool Management",
+        "execution_count": 9,
+        "total_decisions": 9,
+        "avg_confidence": 0.8999999999999999
+      },
+      "researcher": {
+        "name": "Researcher",
+        "role": "Information Gathering and Context Analysis",
+        "execution_count": 2,
+        "total_decisions": 2,
+        "avg_confidence": 0.85
+      },
+      "critics": [
+        {
+          "name": "QualityCritic",
+          "role": "Critic - Quality",
+          "execution_count": 4,
+          "total_decisions": 4,
+          "avg_confidence": 0.9
+        },
+        {
+          "name": "CreativityCritic",
+          "role": "Critic - Creativity",
+          "execution_count": 4,
+          "total_decisions": 4,
+          "avg_confidence": 0.9
+        },
+        {
+          "name": "PracticalityCritic",
+          "role": "Critic - Practicality",
+          "execution_count": 4,
+          "total_decisions": 4,
+          "avg_confidence": 0.9
+        }
+      ]
+    },
+    "memory": {
+      "episodic_tasks": 2,
+      "feedback_entries": 0,
+      "improvements": 2,
+      "strategies": 1,
+      "patterns": 0
+    },
+    "tasks_processed": 0,
+    "notion_tasks": {
+      "total": 1,
+      "by_status": {
+        "Submitted": 1
+      },
+      "approved_count": 0,
+      "pending_approval": 1
+    }
+  },
+  "memory_summary": {
+    "episodic_tasks": 2,
+    "feedback_entries": 0,
+    "improvements": 2,
+    "strategies": 1,
+    "patterns": 0
+  }
+}

@@ -1,0 +1,17 @@
+"""
+Requirements file for NotionOS X
+Install with: pip install -r requirements.txt
+"""
+
+# Core dependencies (most are built-in to Python 3.8+)
+# asyncio - built-in
+# json - built-in
+# pathlib - built-in
+# dataclasses - built-in (Python 3.7+)
+# logging - built-in
+
+# Optional but recommended:
+# python-dotenv - for environment configuration
+# pydantic - for data validation (future enhancement)
+# pytest - for testing (future enhancement)
+# pytest-asyncio - for async testing (future enhancement)

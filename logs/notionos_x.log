@@ -1,0 +1,83 @@
+2026-03-29 22:16:45,496 - NotionOS_X - INFO - SYSTEM: NotionOS X Initializing
+2026-03-29 22:16:45,500 - NotionOS_X - INFO - SYSTEM: Orchestrator initialized with all subsystems
+2026-03-29 22:16:45,502 - NotionOS_X - INFO - Orchestrator: Starting task processing: Analyze current market trends in machine learning ...
+2026-03-29 22:16:45,503 - NotionOS_X - INFO - Orchestrator: STEP 1: Generating execution plan
+2026-03-29 22:16:45,505 - NotionOS_X - ERROR - Orchestrator: Task processing failed: task_graph.TaskNode() got multiple values for keyword argument 'id'
+2026-03-29 22:16:45,506 - NotionOS_X - ERROR - DEMO: Task 1 failed: task_graph.TaskNode() got multiple values for keyword argument 'id'
+2026-03-29 22:16:45,513 - NotionOS_X - INFO - Orchestrator: Starting task processing: Create a comprehensive business case for AI implem...
+2026-03-29 22:16:45,514 - NotionOS_X - INFO - Orchestrator: STEP 1: Generating execution plan
+2026-03-29 22:16:45,515 - NotionOS_X - ERROR - Orchestrator: Task processing failed: task_graph.TaskNode() got multiple values for keyword argument 'id'
+2026-03-29 22:16:45,516 - NotionOS_X - ERROR - DEMO: Task 2 failed: task_graph.TaskNode() got multiple values for keyword argument 'id'
+2026-03-29 22:16:45,523 - NotionOS_X - INFO - DEMO: System report saved to output\system_report_final.json
+2026-03-29 22:18:27,810 - NotionOS_X - INFO - SYSTEM: NotionOS X Initializing
+2026-03-29 22:18:27,813 - NotionOS_X - INFO - SYSTEM: Orchestrator initialized with all subsystems
+2026-03-29 22:18:27,816 - NotionOS_X - INFO - Orchestrator: Starting task processing: Analyze current market trends in machine learning ...
+2026-03-29 22:18:27,817 - NotionOS_X - INFO - Orchestrator: STEP 1: Generating execution plan
+2026-03-29 22:18:27,818 - NotionOS_X - INFO - Orchestrator: Plan generated
+2026-03-29 22:18:27,819 - NotionOS_X - INFO - Orchestrator: STEP 2: Conducting research
+2026-03-29 22:18:30,711 - NotionOS_X - INFO - Orchestrator: Research completed
+2026-03-29 22:18:30,712 - NotionOS_X - INFO - Orchestrator: STEP 3: Executing task graph
+2026-03-29 22:18:30,713 - NotionOS_X - INFO - ExecutionEngine: Starting DAG execution
+2026-03-29 22:18:30,714 - NotionOS_X - INFO - ExecutionEngine: Executing stage 1/5
+2026-03-29 22:18:30,714 - NotionOS_X - DEBUG - ExecutionEngine: Executing node: Generate Execution Plan
+2026-03-29 22:18:30,715 - NotionOS_X - INFO - ExecutionEngine: Node completed: Generate Execution Plan
+2026-03-29 22:18:30,716 - NotionOS_X - INFO - ExecutionEngine: Executing stage 2/5
+2026-03-29 22:18:30,717 - NotionOS_X - DEBUG - ExecutionEngine: Executing node: Research & Gather Information
+2026-03-29 22:18:30,718 - NotionOS_X - INFO - ExecutionEngine: Node completed: Research & Gather Information
+2026-03-29 22:18:30,719 - NotionOS_X - INFO - ExecutionEngine: Executing stage 3/5
+2026-03-29 22:18:30,720 - NotionOS_X - DEBUG - ExecutionEngine: Executing node: Execute Main Task
+2026-03-29 22:18:30,721 - NotionOS_X - INFO - ExecutionEngine: Node completed: Execute Main Task
+2026-03-29 22:18:30,722 - NotionOS_X - INFO - ExecutionEngine: Executing stage 4/5
+2026-03-29 22:18:30,724 - NotionOS_X - DEBUG - ExecutionEngine: Executing node: Quality Review (Critics)
+2026-03-29 22:18:30,725 - NotionOS_X - INFO - ExecutionEngine: Node completed: Quality Review (Critics)
+2026-03-29 22:18:30,726 - NotionOS_X - INFO - ExecutionEngine: Executing stage 5/5
+2026-03-29 22:18:30,728 - NotionOS_X - DEBUG - ExecutionEngine: Executing node: Refinement (if needed)
+2026-03-29 22:18:30,728 - NotionOS_X - INFO - ExecutionEngine: Node completed: Refinement (if needed)
+2026-03-29 22:18:30,729 - NotionOS_X - INFO - ExecutionEngine: DAG execution completed
+2026-03-29 22:18:30,731 - NotionOS_X - INFO - Orchestrator: STEP 4: Running critic evaluations
+2026-03-29 22:18:30,732 - NotionOS_X - INFO - Orchestrator: Critic QualityCritic scored
+2026-03-29 22:18:30,734 - NotionOS_X - INFO - Orchestrator: Critic CreativityCritic scored
+2026-03-29 22:18:30,735 - NotionOS_X - INFO - Orchestrator: Critic PracticalityCritic scored
+2026-03-29 22:18:30,736 - NotionOS_X - INFO - Orchestrator: STEP 5: Analyzing improvement opportunities
+2026-03-29 22:18:30,737 - NotionOS_X - INFO - Orchestrator: STEP 6: Applying refinements
+2026-03-29 22:18:30,740 - NotionOS_X - INFO - Orchestrator: Refining output using strategy: CreativityCritic
+2026-03-29 22:18:30,741 - NotionOS_X - INFO - Orchestrator: Critic QualityCritic scored
+2026-03-29 22:18:30,742 - NotionOS_X - INFO - Orchestrator: Critic CreativityCritic scored
+2026-03-29 22:18:30,744 - NotionOS_X - INFO - Orchestrator: Critic PracticalityCritic scored
+2026-03-29 22:18:30,745 - NotionOS_X - INFO - Orchestrator: STEP 7: Requesting human approval
+2026-03-29 22:18:30,748 - NotionOS_X - WARNING - Orchestrator: Task was rejected
+2026-03-29 22:18:30,750 - NotionOS_X - INFO - Orchestrator: STEP 8: Recording in memory system
+2026-03-29 22:18:30,766 - NotionOS_X - INFO - Orchestrator: Starting task processing: Create a comprehensive business case for AI implem...
+2026-03-29 22:18:30,767 - NotionOS_X - INFO - Orchestrator: STEP 1: Generating execution plan
+2026-03-29 22:18:30,768 - NotionOS_X - INFO - Orchestrator: Plan generated
+2026-03-29 22:18:30,769 - NotionOS_X - INFO - Orchestrator: STEP 2: Conducting research
+2026-03-29 22:18:34,085 - NotionOS_X - INFO - Orchestrator: Research completed
+2026-03-29 22:18:34,090 - NotionOS_X - INFO - Orchestrator: STEP 3: Executing task graph
+2026-03-29 22:18:34,091 - NotionOS_X - INFO - ExecutionEngine: Starting DAG execution
+2026-03-29 22:18:34,093 - NotionOS_X - INFO - ExecutionEngine: Executing stage 1/4
+2026-03-29 22:18:34,096 - NotionOS_X - DEBUG - ExecutionEngine: Executing node: Generate Execution Plan
+2026-03-29 22:18:34,097 - NotionOS_X - INFO - ExecutionEngine: Node completed: Generate Execution Plan
+2026-03-29 22:18:34,099 - NotionOS_X - INFO - ExecutionEngine: Executing stage 2/4
+2026-03-29 22:18:34,101 - NotionOS_X - DEBUG - ExecutionEngine: Executing node: Execute Main Task
+2026-03-29 22:18:34,103 - NotionOS_X - INFO - ExecutionEngine: Node completed: Execute Main Task
+2026-03-29 22:18:34,107 - NotionOS_X - INFO - ExecutionEngine: Executing stage 3/4
+2026-03-29 22:18:34,108 - NotionOS_X - DEBUG - ExecutionEngine: Executing node: Quality Review (Critics)
+2026-03-29 22:18:34,110 - NotionOS_X - INFO - ExecutionEngine: Node completed: Quality Review (Critics)
+2026-03-29 22:18:34,111 - NotionOS_X - INFO - ExecutionEngine: Executing stage 4/4
+2026-03-29 22:18:34,112 - NotionOS_X - DEBUG - ExecutionEngine: Executing node: Refinement (if needed)
+2026-03-29 22:18:34,114 - NotionOS_X - INFO - ExecutionEngine: Node completed: Refinement (if needed)
+2026-03-29 22:18:34,116 - NotionOS_X - INFO - ExecutionEngine: DAG execution completed
+2026-03-29 22:18:34,118 - NotionOS_X - INFO - Orchestrator: STEP 4: Running critic evaluations
+2026-03-29 22:18:34,119 - NotionOS_X - INFO - Orchestrator: Critic QualityCritic scored
+2026-03-29 22:18:34,122 - NotionOS_X - INFO - Orchestrator: Critic CreativityCritic scored
+2026-03-29 22:18:34,124 - NotionOS_X - INFO - Orchestrator: Critic PracticalityCritic scored
+2026-03-29 22:18:34,126 - NotionOS_X - INFO - Orchestrator: STEP 5: Analyzing improvement opportunities
+2026-03-29 22:18:34,128 - NotionOS_X - INFO - Orchestrator: STEP 6: Applying refinements
+2026-03-29 22:18:34,132 - NotionOS_X - INFO - Orchestrator: Refining output using strategy: CreativityCritic
+2026-03-29 22:18:34,134 - NotionOS_X - INFO - Orchestrator: Critic QualityCritic scored
+2026-03-29 22:18:34,136 - NotionOS_X - INFO - Orchestrator: Critic CreativityCritic scored
+2026-03-29 22:18:34,137 - NotionOS_X - INFO - Orchestrator: Critic PracticalityCritic scored
+2026-03-29 22:18:34,142 - NotionOS_X - INFO - Orchestrator: STEP 7: Requesting human approval
+2026-03-29 22:18:34,144 - NotionOS_X - WARNING - Orchestrator: Task was rejected
+2026-03-29 22:18:34,145 - NotionOS_X - INFO - Orchestrator: STEP 8: Recording in memory system
+2026-03-29 22:18:34,162 - NotionOS_X - INFO - DEMO: System report saved to output\system_report_final.json
