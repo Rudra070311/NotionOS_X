@@ -1,0 +1,200 @@
+[
+  {
+    "filename": "thumbnail_viral_video_001_20260329_230845.txt",
+    "path": "images\\thumbnail_viral_video_001_20260329_230845.txt",
+    "size_bytes": 1341,
+    "format": "ascii_art",
+    "width": 60,
+    "height": 20,
+    "description": "Generated thumbnail for task viral_video_001",
+    "task_id": "viral_video_001",
+    "created_at": "2026-03-29T23:08:45.307808"
+  },
+  {
+    "filename": "thumbnail_ai_safety_campaign_20260329_230845.txt",
+    "path": "images\\thumbnail_ai_safety_campaign_20260329_230845.txt",
+    "size_bytes": 1341,
+    "format": "ascii_art",
+    "width": 60,
+    "height": 20,
+    "description": "Generated thumbnail for task ai_safety_campaign",
+    "task_id": "ai_safety_campaign",
+    "created_at": "2026-03-29T23:08:45.398127"
+  },
+  {
+    "filename": "storyboard_ai_safety_campaign_20260329_230845.txt",
+    "path": "images\\storyboard_ai_safety_campaign_20260329_230845.txt",
+    "size_bytes": 1190,
+    "format": "ascii_art",
+    "width": 60,
+    "height": 20,
+    "description": "Generated storyboard for task ai_safety_campaign",
+    "task_id": "ai_safety_campaign",
+    "created_at": "2026-03-29T23:08:45.402392"
+  },
+  {
+    "filename": "mockup_ai_safety_campaign_20260329_230845.txt",
+    "path": "images\\mockup_ai_safety_campaign_20260329_230845.txt",
+    "size_bytes": 1471,
+    "format": "ascii_art",
+    "width": 60,
+    "height": 20,
+    "description": "Generated mockup for task ai_safety_campaign",
+    "task_id": "ai_safety_campaign",
+    "created_at": "2026-03-29T23:08:45.405088"
+  },
+  {
+    "filename": "thumbnail_marketing_campaign_2026_20260329_230845.txt",
+    "path": "images\\thumbnail_marketing_campaign_2026_20260329_230845.txt",
+    "size_bytes": 1341,
+    "format": "ascii_art",
+    "width": 60,
+    "height": 20,
+    "description": "Generated thumbnail for task marketing_campaign_2026",
+    "task_id": "marketing_campaign_2026",
+    "created_at": "2026-03-29T23:08:45.495522"
+  },
+  {
+    "filename": "storyboard_marketing_campaign_2026_20260329_230845.txt",
+    "path": "images\\storyboard_marketing_campaign_2026_20260329_230845.txt",
+    "size_bytes": 1190,
+    "format": "ascii_art",
+    "width": 60,
+    "height": 20,
+    "description": "Generated storyboard for task marketing_campaign_2026",
+    "task_id": "marketing_campaign_2026",
+    "created_at": "2026-03-29T23:08:45.504843"
+  },
+  {
+    "filename": "thumbnail_content_batch_001_20260329_230845.txt",
+    "path": "images\\thumbnail_content_batch_001_20260329_230845.txt",
+    "size_bytes": 1341,
+    "format": "ascii_art",
+    "width": 60,
+    "height": 20,
+    "description": "Generated thumbnail for task content_batch_001",
+    "task_id": "content_batch_001",
+    "created_at": "2026-03-29T23:08:45.538648"
+  },
+  {
+    "filename": "storyboard_content_batch_001_20260329_230845.txt",
+    "path": "images\\storyboard_content_batch_001_20260329_230845.txt",
+    "size_bytes": 1190,
+    "format": "ascii_art",
+    "width": 60,
+    "height": 20,
+    "description": "Generated storyboard for task content_batch_001",
+    "task_id": "content_batch_001",
+    "created_at": "2026-03-29T23:08:45.543655"
+  },
+  {
+    "filename": "mockup_content_batch_001_20260329_230845.txt",
+    "path": "images\\mockup_content_batch_001_20260329_230845.txt",
+    "size_bytes": 1471,
+    "format": "ascii_art",
+    "width": 60,
+    "height": 20,
+    "description": "Generated mockup for task content_batch_001",
+    "task_id": "content_batch_001",
+    "created_at": "2026-03-29T23:08:45.547587"
+  },
+  {
+    "filename": "thumbnail_viral_video_001_20260329_231025.txt",
+    "path": "images\\thumbnail_viral_video_001_20260329_231025.txt",
+    "size_bytes": 1341,
+    "format": "ascii_art",
+    "width": 60,
+    "height": 20,
+    "description": "Generated thumbnail for task viral_video_001",
+    "task_id": "viral_video_001",
+    "created_at": "2026-03-29T23:10:25.897957"
+  },
+  {
+    "filename": "thumbnail_ai_safety_campaign_20260329_231025.txt",
+    "path": "images\\thumbnail_ai_safety_campaign_20260329_231025.txt",
+    "size_bytes": 1341,
+    "format": "ascii_art",
+    "width": 60,
+    "height": 20,
+    "description": "Generated thumbnail for task ai_safety_campaign",
+    "task_id": "ai_safety_campaign",
+    "created_at": "2026-03-29T23:10:25.969747"
+  },
+  {
+    "filename": "storyboard_ai_safety_campaign_20260329_231025.txt",
+    "path": "images\\storyboard_ai_safety_campaign_20260329_231025.txt",
+    "size_bytes": 1190,
+    "format": "ascii_art",
+    "width": 60,
+    "height": 20,
+    "description": "Generated storyboard for task ai_safety_campaign",
+    "task_id": "ai_safety_campaign",
+    "created_at": "2026-03-29T23:10:25.974267"
+  },
+  {
+    "filename": "mockup_ai_safety_campaign_20260329_231025.txt",
+    "path": "images\\mockup_ai_safety_campaign_20260329_231025.txt",
+    "size_bytes": 1471,
+    "format": "ascii_art",
+    "width": 60,
+    "height": 20,
+    "description": "Generated mockup for task ai_safety_campaign",
+    "task_id": "ai_safety_campaign",
+    "created_at": "2026-03-29T23:10:25.986069"
+  },
+  {
+    "filename": "thumbnail_marketing_campaign_2026_20260329_231026.txt",
+    "path": "images\\thumbnail_marketing_campaign_2026_20260329_231026.txt",
+    "size_bytes": 1341,
+    "format": "ascii_art",
+    "width": 60,
+    "height": 20,
+    "description": "Generated thumbnail for task marketing_campaign_2026",
+    "task_id": "marketing_campaign_2026",
+    "created_at": "2026-03-29T23:10:26.046531"
+  },
+  {
+    "filename": "storyboard_marketing_campaign_2026_20260329_231026.txt",
+    "path": "images\\storyboard_marketing_campaign_2026_20260329_231026.txt",
+    "size_bytes": 1190,
+    "format": "ascii_art",
+    "width": 60,
+    "height": 20,
+    "description": "Generated storyboard for task marketing_campaign_2026",
+    "task_id": "marketing_campaign_2026",
+    "created_at": "2026-03-29T23:10:26.056632"
+  },
+  {
+    "filename": "thumbnail_content_batch_001_20260329_231026.txt",
+    "path": "images\\thumbnail_content_batch_001_20260329_231026.txt",
+    "size_bytes": 1341,
+    "format": "ascii_art",
+    "width": 60,
+    "height": 20,
+    "description": "Generated thumbnail for task content_batch_001",
+    "task_id": "content_batch_001",
+    "created_at": "2026-03-29T23:10:26.104760"
+  },
+  {
+    "filename": "storyboard_content_batch_001_20260329_231026.txt",
+    "path": "images\\storyboard_content_batch_001_20260329_231026.txt",
+    "size_bytes": 1190,
+    "format": "ascii_art",
+    "width": 60,
+    "height": 20,
+    "description": "Generated storyboard for task content_batch_001",
+    "task_id": "content_batch_001",
+    "created_at": "2026-03-29T23:10:26.114168"
+  },
+  {
+    "filename": "mockup_content_batch_001_20260329_231026.txt",
+    "path": "images\\mockup_content_batch_001_20260329_231026.txt",
+    "size_bytes": 1471,
+    "format": "ascii_art",
+    "width": 60,
+    "height": 20,
+    "description": "Generated mockup for task content_batch_001",
+    "task_id": "content_batch_001",
+    "created_at": "2026-03-29T23:10:26.121256"
+  }
+]

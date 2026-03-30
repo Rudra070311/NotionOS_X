@@ -1,0 +1,19 @@
+
+    +=============================================================+
+    |                      STORYBOARD LAYOUT                      |
+    |                                                              |
+    |  Scene 1: Hook         Scene 2: Setup                       |
+    |  +--------+            +--------+                           |
+    |  | SHOCK  |  FAST CUT  | REALITY|                           |
+    |  +--------+            +--------+                           |
+    |                                                              |
+    |  Scene 3: Conflict     Scene 4: Resolution                  |
+    |  +--------+            +--------+                           |
+    |  |TENSION |  DEBATE    |SOLUTION|                           |
+    |  +--------+            +--------+                           |
+    |                                                              |
+    |  Pacing: 2s, 3s, 5s, 4s                                    |
+    |  Total Duration: 14 seconds (SHORT + ENGAGING)              |
+    |                                                              |
+    +=============================================================+
+            

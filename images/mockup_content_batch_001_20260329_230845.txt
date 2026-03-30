@@ -1,0 +1,23 @@
+
+    +=============================================================+
+    |                  VIDEO MOCKUP PREVIEW                       |
+    |                                                              |
+    |              FRAME 1 (0:00-0:02s)                           |
+    |                                                              |
+    |        [TITLE CARD - RED BACKGROUND]                        |
+    |                                                              |
+    |        "Your AI Isn't What You Think"                       |
+    |                                                              |
+    |        [Fade to presenter]                                  |
+    |        "Most people don't realize one thing..."             |
+    |                                                              |
+    |        [B-roll: AI generated content]                       |
+    |                                                              |
+    |        [Cut to interview soundbite]                         |
+    |        Expert: "The alignment problem is critical"          |
+    |                                                              |
+    |        [Conclude with call-to-action]                       |
+    |        "Subscribe to understand the future of AI"           |
+    |                                                              |
+    +=============================================================+
+            
